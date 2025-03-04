@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gAxPVtE68sY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dtisc\\Downloads\\IndividualWork2-master\\IndividualWork2-master\\IndividualWork3\\IndividualWork3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dtisc\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\dtisc\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\dtisc\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
